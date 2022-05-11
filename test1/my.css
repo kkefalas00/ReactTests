@@ -1,0 +1,22 @@
+.tb td{
+	border:1px solid black;
+	padding:5px;
+	width:300px;
+	
+}
+
+.client {
+	list-style:none;
+	background-color:black;
+	color:white;
+	padding:10px;
+	margin-bottom:10px;
+	margin-left:0px;
+	
+	
+}
+
+ul {
+	padding:0px;
+	margin:0px;
+}
